@@ -10,4 +10,5 @@ To run:
 5. Run by clicking triangle in upper left corner
 
 Synth v1:
+
 <img src="Screenshots/Synth_v1.png" width="250" height="200"/>
