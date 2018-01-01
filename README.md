@@ -10,5 +10,4 @@ To run:
 5. Run by clicking triangle in upper left corner
 
 Synth v1:
-![Picture not able to be displayed](Screenshots/Synth_v1.png?raw=true "Simple Synth V1")
-
+<img src="Screenshots/Synth_v1.png" width="250" height="200"/>
